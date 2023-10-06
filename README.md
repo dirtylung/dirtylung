@@ -4,7 +4,7 @@
 - learning code in my basement.
 - my name came from rdr2.
 - [discord.gg/bwZRyusJK9](https://discord.gg/bwZRyusJK9/) (dirtylung's hideout).
-- dirtylung#0001, no other socials.
+- dirtylunged on discord, no other socials.
 
 ## Languages
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
